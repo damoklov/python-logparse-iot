@@ -8,4 +8,7 @@ venv/*
 __pycache__
 __pycache__/*
 
+# Logfiles
+access_log_Jul95
+parsed_logs.log
 
